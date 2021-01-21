@@ -9,7 +9,7 @@ const getInfo = async(event) =>{
     // alert("hi");
     let cityVal=cityname.value;
 
-    // alert(cityVal);
+    alert(cityVal);
 
 //   let url = `http://api.openweathermap.org/data/2.5/weather?q=dewas&appid=0c8879872c2b309ac183e3fd61ec3dae`;
   if(cityVal == ""){
